@@ -1,6 +1,6 @@
 class CfgPatches
 {
-    class JCA_IE_aceax // JCA - Modular Carrier Remake Project
+    class JCA_MCRP_aceax // JCA - Modular Carrier Remake Project
     {
         author="TubaHorse";
         version=1.0;

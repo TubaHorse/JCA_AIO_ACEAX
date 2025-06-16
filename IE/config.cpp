@@ -7,7 +7,7 @@ class CfgPatches
         requiredVersion=0.1;
         units[]={};
         weapons[]={};
-        requiredAddons[] = {"aceax_gearinfo","JCA_AIO_aceax","Headwear_F_JCA_IE"};
+        requiredAddons[] = {"aceax_gearinfo","JCA_AIO_aceax","Headwear_F_JCA_IE","vests_f_JCA_IE"};
         skipWhenMissingDependencies = 1;
     };
 };

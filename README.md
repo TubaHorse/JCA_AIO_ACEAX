@@ -18,6 +18,8 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - Infantry Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=3473383676)
 - [JCA - Modular Helmet Remake Project](https://steamcommunity.com/sharedfiles/filedetails/?id=3498478340)
 - [JCA - Modular Carrier Remake Project](https://steamcommunity.com/sharedfiles/filedetails/?id=2989752481)
+- [JCA - MCRP Expansion MTP](https://steamcommunity.com/sharedfiles/filedetails/?id=3417534462)
+- [JCA - MCRP Expansion 2035](https://steamcommunity.com/sharedfiles/filedetails/?id=3417529347)
 
 ----
 Workshop page: [soon]()

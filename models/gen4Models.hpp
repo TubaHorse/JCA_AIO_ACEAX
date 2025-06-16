@@ -1,7 +1,7 @@
 class jca_m4a1
 {
 	options[] = {"camo", "barrel", "attachment"};
-	label = "M4A1 5.56"
+	label = "M4A1 5.56";
 	class camo: JCA_colorBase{};
 	class barrel
 	{
@@ -29,7 +29,7 @@ class jca_m4a4
 		values[] = {"AFG","VFG","GL"};
 		changeingame = 0;
 		alwaysSelectable = 1;
-	}
+	};
 };
 class jca_sr25
 {
