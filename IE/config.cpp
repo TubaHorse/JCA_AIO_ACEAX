@@ -23,6 +23,7 @@ class XtdGearModels
     class CfgWeapons
     {
         #include "\JCA_AIO_aceax\models\mhrpModel.hpp"
+        #include "\JCA_AIO_aceax\models\vestModels.hpp"
     };
 };
 
@@ -31,5 +32,6 @@ class XtdGearInfos
     class CfgWeapons
     {
         #include "\JCA_AIO_aceax\infos\mhrpInfos.hpp"
+        #include "\JCA_AIO_aceax\infos\vestInfos.hpp"
     };
 };

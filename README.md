@@ -1,4 +1,4 @@
-# JCA ACE3 Arsenal Extended Al-In-One Compatibility Mod
+# JCA ACE3 Arsenal Extended All-In-One Compatibility Mod
 ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft dependencies to determine what mods are loaded and applied necessary configs.
 
 ## Compatible Mods
@@ -17,6 +17,7 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 ### Gear
 - [JCA - Infantry Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=3473383676)
 - [JCA - Modular Helmet Remake Project](https://steamcommunity.com/sharedfiles/filedetails/?id=3498478340)
+- [JCA - Modular Carrier Remake Project](https://steamcommunity.com/sharedfiles/filedetails/?id=2989752481)
 
 ----
 Workshop page: [soon]()
