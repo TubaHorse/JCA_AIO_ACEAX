@@ -23,6 +23,6 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - Combat Headset](https://steamcommunity.com/sharedfiles/filedetails/?id=3473420778)
 - [JCA - M50 APR](https://steamcommunity.com/sharedfiles/filedetails/?id=3234562620)
 ----
-Workshop page: [soon]()
+[Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?edit=true&id=3501412586)
 
 Special thanks to [Grave](https://steamcommunity.com/id/GraveHeartCRCG/myworkshopfiles/?appid=107410) for their JCA line of mods and to GrueArbre who made the original [ACE3 Arsenal Extended](https://steamcommunity.com/workshop/filedetails/?id=2522638637)
