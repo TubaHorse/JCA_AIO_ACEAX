@@ -30,6 +30,7 @@ class XtdGearModels
     {
         #include "\JCA_AIO_aceax\models\ch_gModels.hpp"
         #include "\JCA_AIO_aceax\models\m50Models.hpp"
+        #include "\JCA_AIO_aceax\models\tacGModels.hpp"
     };
 };
 
@@ -45,5 +46,6 @@ class XtdGearInfos
     {
         #include "\JCA_AIO_aceax\infos\ch_gInfos.hpp"
         #include "\JCA_AIO_aceax\infos\m50Infos.hpp"
+        #include "\JCA_AIO_aceax\infos\tacGInfos.hpp"
     };
 };
