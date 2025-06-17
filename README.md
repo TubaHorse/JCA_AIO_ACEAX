@@ -21,7 +21,7 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - MCRP Expansion MTP](https://steamcommunity.com/sharedfiles/filedetails/?id=3417534462)
 - [JCA - MCRP Expansion 2035](https://steamcommunity.com/sharedfiles/filedetails/?id=3417529347)
 - [JCA - Combat Headset](https://steamcommunity.com/sharedfiles/filedetails/?id=3473420778)
-
+- [JCA - M50 APR](https://steamcommunity.com/sharedfiles/filedetails/?id=3234562620)
 ----
 Workshop page: [soon]()
 

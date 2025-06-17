@@ -29,6 +29,7 @@ class XtdGearModels
     class CfgGlasses
     {
         #include "\JCA_AIO_aceax\models\ch_gModels.hpp"
+        #include "\JCA_AIO_aceax\models\m50Models.hpp"
     };
 };
 
@@ -43,5 +44,6 @@ class XtdGearInfos
     class CfgGlasses
     {
         #include "\JCA_AIO_aceax\infos\ch_gInfos.hpp"
+        #include "\JCA_AIO_aceax\infos\m50Infos.hpp"
     };
 };
