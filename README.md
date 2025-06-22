@@ -14,6 +14,8 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - M9A1](https://steamcommunity.com/sharedfiles/filedetails/?id=3457335790)
 - [JCA - Mk23](https://steamcommunity.com/sharedfiles/filedetails/?id=3477061208)
 - [JCA - Mk153](https://steamcommunity.com/sharedfiles/filedetails/?id=3389038429)
+- [USMC 2035 - Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=3505099041)
+
 ### Gear
 - [JCA - Infantry Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=3473383676)
 - [JCA - Modular Helmet Remake Project](https://steamcommunity.com/sharedfiles/filedetails/?id=3498478340)
@@ -22,7 +24,10 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - MCRP Expansion 2035](https://steamcommunity.com/sharedfiles/filedetails/?id=3417529347)
 - [JCA - Combat Headset](https://steamcommunity.com/sharedfiles/filedetails/?id=3473420778)
 - [JCA - M50 APR](https://steamcommunity.com/sharedfiles/filedetails/?id=3234562620)
+- [JCA - Tactical Glasses Remake Project](https://steamcommunity.com/sharedfiles/filedetails/?id=3323321780)
 ----
 [Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3501412586)
 
 Special thanks to [Grave](https://steamcommunity.com/id/GraveHeartCRCG/myworkshopfiles/?appid=107410) for their JCA line of mods and to GrueArbre who made the original [ACE3 Arsenal Extended](https://steamcommunity.com/workshop/filedetails/?id=2522638637)
+
+*I am aware that the USMC 2035 project from Grave is not part of the JCA line, however JCA AIO (and also USMC) doesn't work as well as a title.*
