@@ -25,6 +25,7 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - Combat Headset](https://steamcommunity.com/sharedfiles/filedetails/?id=3473420778)
 - [JCA - M50 APR](https://steamcommunity.com/sharedfiles/filedetails/?id=3234562620)
 - [JCA - Tactical Glasses Remake Project](https://steamcommunity.com/sharedfiles/filedetails/?id=3323321780)
+- [JCA - MSA APR](https://steamcommunity.com/sharedfiles/filedetails/?id=3508762433)
 ----
 [Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3501412586)
 
