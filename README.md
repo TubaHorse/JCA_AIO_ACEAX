@@ -15,6 +15,7 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - Mk23](https://steamcommunity.com/sharedfiles/filedetails/?id=3477061208)
 - [JCA - Mk153](https://steamcommunity.com/sharedfiles/filedetails/?id=3389038429)
 - [USMC 2035 - Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=3505099041)
+- [SCAR Weapon Family (JCA Expansion)](https://steamcommunity.com/sharedfiles/filedetails/?id=3345739516) _Unofficial_
 
 ### Gear
 - [JCA - Infantry Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=3473383676)
