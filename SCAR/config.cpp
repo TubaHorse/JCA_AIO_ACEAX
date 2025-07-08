@@ -6,7 +6,7 @@ class CfgPatches
         requiredVersion=0.1;
         units[]={};
         weapons[]={};
-        requiredAddons[]={"aceax_gearinfo","JCA_AIO_aceax","lot_aaf_scar"};
+        requiredAddons[]={"aceax_gearinfo","JCA_AIO_aceax","lot_aaf_scar","lot_aaf_mk12"};
         skipWhenMissingDependencies=1;
     };
 };
@@ -63,6 +63,20 @@ class XtdGearModels
             {
                 label="Barrel Length";
                 values[]={"Standard","Short"};
+                alwaysSelectable=0;
+                changeInGame=0;
+            };
+        };
+        class JCA_MK12
+        {
+            label="Mk 12 Mod 1";
+            options[]={"camo","attachment"};
+            class camo: JCA_colorBase{};
+            class attachment
+            {
+                label="Attachment";
+                values[]={"VFG","AFG"};
+                description="Underbarrel attachment options";
                 alwaysSelectable=0;
                 changeInGame=0;
             };
@@ -300,6 +314,47 @@ class XtdGearInfos
             attachment="VFG";
             version="Light";
             barrel="Short";
+        };
+
+        class MK12_aceax
+        {
+            model="JCA_MK12";
+        };
+
+        class JCA_arifle_Mk12_AFG_black_F: MK12_aceax
+        {
+            camo = "BLK";
+            attachment = "AFG";
+        };
+
+        class JCA_arifle_Mk12_AFG_olive_F: MK12_aceax
+        {
+            camo = "OLI";
+            attachment = "AFG";
+        };
+
+        class JCA_arifle_Mk12_AFG_sand_F: MK12_aceax
+        {
+            camo = "SND";
+            attachment = "AFG";
+        };
+
+        class JCA_arifle_Mk12_VFG_black_F: MK12_aceax
+        {
+            camo = "BLK";
+            attachment = "VFG";
+        };
+
+        class JCA_arifle_Mk12_VFG_olive_F: MK12_aceax
+        {
+            camo = "OLI";
+            attachment = "VFG";
+        };
+
+        class JCA_arifle_Mk12_VFG_sand_F: MK12_aceax
+        {
+            camo = "SND";
+            attachment = "VFG";
         };
     };
 };
