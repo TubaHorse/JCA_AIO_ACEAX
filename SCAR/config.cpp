@@ -11,7 +11,7 @@ class CfgPatches
     };
 };
 
-// Removing until mod author fixed no-attachment versions
+// Removing until mod author fixes no-attachment versions
 /*
 class CfgWeapons
 {
