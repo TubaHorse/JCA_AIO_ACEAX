@@ -29,6 +29,7 @@ class XtdGearModels
         #include "\JCA_AIO_aceax\models\mk23Models.hpp"
         #include "\JCA_AIO_aceax\models\mk153Models.hpp"
         #include "\JCA_AIO_aceax\models\m72Models.hpp"
+        #include "\JCA_AIO_aceax\models\m107Models.hpp"
     };
 };
 
@@ -47,5 +48,6 @@ class XtdGearInfos
         #include "\JCA_AIO_aceax\infos\mk23Infos.hpp"
         #include "\JCA_AIO_aceax\infos\mk153Infos.hpp"
         #include "\JCA_AIO_aceax\infos\m72Infos.hpp"
+        #include "\JCA_AIO_aceax\infos\m107Infos.hpp"
     };
 };

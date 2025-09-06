@@ -9,6 +9,7 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - MP5A5](https://steamcommunity.com/sharedfiles/filedetails/?id=3302425224)
 - [JCA - UMP45](https://steamcommunity.com/sharedfiles/filedetails/?id=3397288027)
 - [JCA - M115A3](https://steamcommunity.com/sharedfiles/filedetails/?id=3148699851)
+- [JCA - M107A1](https://steamcommunity.com/sharedfiles/filedetails/?id=3559739995)
 - [JCA - P226](https://steamcommunity.com/sharedfiles/filedetails/?id=3328185289)
 - [JCA - P320](https://steamcommunity.com/sharedfiles/filedetails/?id=3029401059)
 - [JCA - M9A1](https://steamcommunity.com/sharedfiles/filedetails/?id=3457335790)
