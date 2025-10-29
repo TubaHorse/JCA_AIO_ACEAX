@@ -29,6 +29,10 @@ class XtdGearModels
 		changeingame = 0;
 		alwaysSelectable = 1;
     };
+    class JCA_yesNoBase
+    {
+        values[]={"Yes","No"};
+    };
 };
 
 class XtdGearInfos

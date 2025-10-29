@@ -5,6 +5,7 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 ### Weapons
 - [JCA - Infantry Arsenal](https://steamcommunity.com/sharedfiles/filedetails/?id=3333302397)
 - [JCA - Gen 4 Weapon Family](https://steamcommunity.com/sharedfiles/filedetails/?id=3149544080)
+- [JCA - HK433](https://steamcommunity.com/sharedfiles/filedetails/?id=3593321509)
 - [JCA - M16A4](https://steamcommunity.com/sharedfiles/filedetails/?id=3343727154)
 - [JCA - MP5A5](https://steamcommunity.com/sharedfiles/filedetails/?id=3302425224)
 - [JCA - UMP45](https://steamcommunity.com/sharedfiles/filedetails/?id=3397288027)
@@ -29,6 +30,8 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - M50 APR](https://steamcommunity.com/sharedfiles/filedetails/?id=3234562620)
 - [JCA - Tactical Glasses Remake Project](https://steamcommunity.com/sharedfiles/filedetails/?id=3323321780)
 - [JCA - MSA APR](https://steamcommunity.com/sharedfiles/filedetails/?id=3508762433)
+- [JCA - Tactical Facewear](https://steamcommunity.com/sharedfiles/filedetails/?id=3543364649)
+- [JCA - Shemagh](https://steamcommunity.com/sharedfiles/filedetails/?id=3590944304)
 ----
 [Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3501412586)
 
