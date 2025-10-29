@@ -20,6 +20,7 @@ class CfgWeapons
 class XtdGearModels
 {
     class JCA_colorBase;
+    class JCA_yesNoBase;
     class CfgWeapons
     {
         #include "\JCA_AIO_aceax\models\mhrpModel.hpp"
@@ -32,6 +33,8 @@ class XtdGearModels
         #include "\JCA_AIO_aceax\models\m50Models.hpp"
         #include "\JCA_AIO_aceax\models\msaModels.hpp"
         #include "\JCA_AIO_aceax\models\tacGModels.hpp"
+        #include "\JCA_AIO_aceax\models\balaclavaIEModels.hpp"
+        #include "\JCA_AIO_aceax\models\shemagIEModels.hpp"
     };
 };
 
@@ -49,5 +52,7 @@ class XtdGearInfos
         #include "\JCA_AIO_aceax\infos\m50Infos.hpp"
         #include "\JCA_AIO_aceax\infos\msaInfos.hpp"
         #include "\JCA_AIO_aceax\infos\tacGInfos.hpp"
+        #include "\JCA_AIO_aceax\infos\balaclavaIEInfos.hpp"
+        #include "\JCA_AIO_aceax\infos\shemagIEInfos.hpp"
     };
 };
