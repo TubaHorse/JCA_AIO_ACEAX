@@ -17,13 +17,13 @@ class XtdGearModels
     class JCA_colorBase;
     class cfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\usmcWepModels.hpp"
+        #include "usmcWepModels.hpp"
     };
 };
 class XtdGearInfos
 {
     class cfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\usmcWepInfos.hpp"
+        #include "usmcWepInfos.hpp"
     };
 };

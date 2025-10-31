@@ -17,13 +17,13 @@ class XtdGearModels
     class JCA_colorBase;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\p226Models.hpp"
+        #include "p226Models.hpp"
     };
 };
 class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\p226Infos.hpp"
+        #include "p226Infos.hpp"
     };
 };

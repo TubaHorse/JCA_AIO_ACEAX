@@ -16,7 +16,7 @@ class XtdGearModels
     class JCA_colorBase;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\hk433Models.hpp"
+        #include "hk433Models.hpp"
     };
 };
 
@@ -25,6 +25,6 @@ class XtdGearInfos
     class JCA_colorBase;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\hk433Infos.hpp"
+        #include "hk433Infos.hpp"
     };
 };

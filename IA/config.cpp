@@ -18,18 +18,19 @@ class XtdGearModels
     class JCA_attachmentBase_3;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\awmModels.hpp"
+        #include "\JCA_AIO_aceax\awm\awmModels.hpp"
         #include "\JCA_AIO_aceax\gen4\gen4Models.hpp"
-        #include "\JCA_AIO_aceax\models\m16Models.hpp"
-        #include "\JCA_AIO_aceax\models\mp5Models.hpp"
-        #include "\JCA_AIO_aceax\models\umpModels.hpp"
-        #include "\JCA_AIO_aceax\models\p226Models.hpp"
-        #include "\JCA_AIO_aceax\models\p320Models.hpp"
-        #include "\JCA_AIO_aceax\models\m9a1Models.hpp"
-        #include "\JCA_AIO_aceax\models\mk23Models.hpp"
-        #include "\JCA_AIO_aceax\models\mk153Models.hpp"
-        #include "\JCA_AIO_aceax\models\m72Models.hpp"
-        #include "\JCA_AIO_aceax\models\m107Models.hpp"
+        #include "\JCA_AIO_aceax\M16A4\m16Models.hpp"
+        #include "\JCA_AIO_aceax\MP5\mp5Models.hpp"
+        #include "\JCA_AIO_aceax\UMP\umpModels.hpp"
+        #include "\JCA_AIO_aceax\p226\p226Models.hpp"
+        #include "\JCA_AIO_aceax\p320\p320Models.hpp"
+        #include "\JCA_AIO_aceax\m9a1\m9a1Models.hpp"
+        #include "\JCA_AIO_aceax\mk23\mk23Models.hpp"
+        #include "\JCA_AIO_aceax\mk153\mk153Models.hpp"
+        #include "\JCA_AIO_aceax\m72\m72Models.hpp"
+        #include "\JCA_AIO_aceax\m107\m107Models.hpp"
+        // #include "\JCA_AIO_aceax\HK433\hk433Models.hpp"
     };
 };
 
@@ -37,17 +38,18 @@ class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\awmInfos.hpp"
+        #include "\JCA_AIO_aceax\awm\awmInfos.hpp"
         #include "\JCA_AIO_aceax\gen4\gen4Infos.hpp"
-        #include "\JCA_AIO_aceax\infos\m16Infos.hpp"
-        #include "\JCA_AIO_aceax\infos\mp5Infos.hpp"
-        #include "\JCA_AIO_aceax\infos\umpInfos.hpp"
-        #include "\JCA_AIO_aceax\infos\p226Infos.hpp"
-        #include "\JCA_AIO_aceax\infos\p320Infos.hpp"
-        #include "\JCA_AIO_aceax\infos\m9a1Infos.hpp"
-        #include "\JCA_AIO_aceax\infos\mk23Infos.hpp"
-        #include "\JCA_AIO_aceax\infos\mk153Infos.hpp"
-        #include "\JCA_AIO_aceax\infos\m72Infos.hpp"
-        #include "\JCA_AIO_aceax\infos\m107Infos.hpp"
+        #include "\JCA_AIO_aceax\M16A4\m16Infos.hpp"
+        #include "\JCA_AIO_aceax\MP5\mp5Infos.hpp"
+        #include "\JCA_AIO_aceax\UMP\umpInfos.hpp"
+        #include "\JCA_AIO_aceax\p226\p226Infos.hpp"
+        #include "\JCA_AIO_aceax\p320\p320Infos.hpp"
+        #include "\JCA_AIO_aceax\m9a1\m9a1Infos.hpp"
+        #include "\JCA_AIO_aceax\mk23\mk23Infos.hpp"
+        #include "\JCA_AIO_aceax\mk153\mk153Infos.hpp"
+        #include "\JCA_AIO_aceax\m72\m72Infos.hpp"
+        #include "\JCA_AIO_aceax\m107\m107Infos.hpp"
+        //#include "\JCA_AIO_aceax\HK433\hk433Infos.hpp"
     };
 };

@@ -16,13 +16,13 @@ class XtdGearModels
     class JCA_colorBase;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\m72Models.hpp"
+        #include "m72Models.hpp"
     };
 };
 class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\m72Infos.hpp"
+        #include "m72Infos.hpp"
     };
 };

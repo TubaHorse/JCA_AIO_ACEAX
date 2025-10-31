@@ -18,13 +18,13 @@ class XtdGearModels
     class JCA_attachmentBase_3;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\umpModels.hpp"
+        #include "umpModels.hpp"
     };
 };
 class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\umpInfos.hpp"
+        #include "umpInfos.hpp"
     };
 };
