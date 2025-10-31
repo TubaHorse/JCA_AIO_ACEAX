@@ -19,7 +19,7 @@ class XtdGearModels
     class CfgWeapons
     {
         #include "\JCA_AIO_aceax\models\awmModels.hpp"
-        #include "\JCA_AIO_aceax\models\gen4Models.hpp"
+        #include "\JCA_AIO_aceax\gen4\gen4Models.hpp"
         #include "\JCA_AIO_aceax\models\m16Models.hpp"
         #include "\JCA_AIO_aceax\models\mp5Models.hpp"
         #include "\JCA_AIO_aceax\models\umpModels.hpp"
@@ -38,7 +38,7 @@ class XtdGearInfos
     class CfgWeapons
     {
         #include "\JCA_AIO_aceax\infos\awmInfos.hpp"
-        #include "\JCA_AIO_aceax\infos\gen4Infos.hpp"
+        #include "\JCA_AIO_aceax\gen4\gen4Infos.hpp"
         #include "\JCA_AIO_aceax\infos\m16Infos.hpp"
         #include "\JCA_AIO_aceax\infos\mp5Infos.hpp"
         #include "\JCA_AIO_aceax\infos\umpInfos.hpp"
