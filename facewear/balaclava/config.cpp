@@ -14,6 +14,10 @@ class CfgPatches
 class XtdGearModels
 {
     class JCA_colorBase;
+    class CfgWeapons
+    {
+        #include "\JCA_AIO_aceax\models\balaclava_H_Models.hpp"
+    };
     class CfgGlasses
     {
         #include "\JCA_AIO_aceax\models\balaclavaModels.hpp"
@@ -21,6 +25,10 @@ class XtdGearModels
 };
 class XtdGearInfos
 {
+    class CfgWeapons
+    {
+        #include "\JCA_AIO_aceax\infos\balaclava_H_Infos.hpp"
+    };
     class CfgGlasses
     {
         #include "\JCA_AIO_aceax\infos\balaclavaInfos.hpp"

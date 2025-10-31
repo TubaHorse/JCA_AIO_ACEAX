@@ -15,6 +15,10 @@ class XtdGearModels
 {
     class JCA_colorBase;
     class JCA_yesNoBase;
+    class CfgWeapons
+    {
+        #include "\JCA_AIO_aceax\models\shemag_H_GlassesModels.hpp"
+    };
     class CfgGlasses
     {
         #include "\JCA_AIO_aceax\models\shemagGlassesModels.hpp"
@@ -22,6 +26,10 @@ class XtdGearModels
 };
 class XtdGearInfos
 {
+    class CfgWeapons
+    {
+        #include "\JCA_AIO_aceax\infos\shemag_H_GlassesInfos.hpp"
+    };
     class CfgGlasses
     {
         #include "\JCA_AIO_aceax\infos\shemagGlassesInfos.hpp"

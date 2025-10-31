@@ -1,6 +1,6 @@
 class CfgPatches
 {
-    class JCA_Shemag_aceax
+    class JCA_Shemag_headset_glasses_aceax
     {
         author="TubaHorse";
         requiredVersion=0.1;
@@ -13,6 +13,10 @@ class CfgPatches
 
 class XtdGearInfos
 {
+    class CfgWeapons
+    {
+        #include "\JCA_AIO_aceax\infos\shemag_H_BothInfos.hpp"
+    };
     class CfgGlasses
     {
         #include "\JCA_AIO_aceax\infos\shemagBothInfos.hpp"
