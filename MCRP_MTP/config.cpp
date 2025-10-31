@@ -7,7 +7,7 @@ class CfgPatches
         requiredVersion=0.1;
         units[]={};
         weapons[]={};
-        requiredAddons[] = {"aceax_gearinfo","JCA_AIO_aceax","vests_f_JCA_MCRP"};
+        requiredAddons[] = {"aceax_gearinfo","JCA_AIO_aceax","JCA_MCRP_aceax","vests_f_JCA_MCRP","vests_f_JCA_MCRP_MTP_MCRP"};
         skipWhenMissingDependencies = 1;
     };
 };

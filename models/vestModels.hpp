@@ -2,7 +2,10 @@ class JCA_MCRP
 {
 	label="Modular Carrier Vest";
 	options[]={"camo","variant"};
-	class camo: JCA_colorBase{};
+	class camo: JCA_colorBase
+	{
+		alwaysSelectable=1;
+	};
 	class variant
 	{
 		label="Variant";
