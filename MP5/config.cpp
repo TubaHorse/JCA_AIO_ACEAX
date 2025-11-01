@@ -18,7 +18,7 @@ class XtdGearModels
     class JCA_attachmentBase_3;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\mp5Models.hpp"
+        #include "mp5Models.hpp"
     };
 };
 
@@ -26,6 +26,6 @@ class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\mp5Infos.hpp"
+        #include "mp5Infos.hpp"
     };
 };

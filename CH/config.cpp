@@ -63,21 +63,21 @@ class XtdGearModels
     class JCA_colorBase;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\chModels.hpp"
+        #include "chModels.hpp"
     };
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\models\ch_gModels.hpp"
+        #include "ch_gModels.hpp"
     };
 };
 class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\chInfos.hpp"
+        #include "chInfos.hpp"
     };
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\infos\ch_gInfos.hpp"
+        #include "ch_gInfos.hpp"
     };
 };

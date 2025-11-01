@@ -17,21 +17,21 @@ class XtdGearModels
     class JCA_yesNoBase;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\balaclava_H_GlassesModels.hpp"
+        #include "balaclava_H_GlassesModels.hpp"
     };
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\models\balaclavaGlassesModels.hpp"
+        #include "balaclavaGlassesModels.hpp"
     };
 };
 class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\balaclava_H_GlassesInfos.hpp"
+        #include "balaclava_H_GlassesInfos.hpp"
     };
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\infos\balaclavaGlassesInfos.hpp"
+        #include "balaclavaGlassesInfos.hpp"
     };
 };

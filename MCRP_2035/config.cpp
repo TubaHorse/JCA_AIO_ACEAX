@@ -17,13 +17,13 @@ class XtdGearModels
     class JCA_colorBase;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\2035VestModels.hpp"
+        #include "2035VestModels.hpp"
     };
 };
 class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\2035VestInfos.hpp"
+        #include "2035VestInfos.hpp"
     };
 };

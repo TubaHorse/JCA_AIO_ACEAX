@@ -51,21 +51,21 @@ class XtdGearModels
     class JCA_yesNoBase;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\balaclava_H_HeadsetModels.hpp"
+        #include "balaclava_H_HeadsetModels.hpp"
     };
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\models\balaclavaHeadsetModels.hpp"
+        #include "balaclavaHeadsetModels.hpp"
     };
 };
 class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\balaclava_H_HeadsetInfos.hpp"
+        #include "balaclava_H_HeadsetInfos.hpp"
     };
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\infos\balaclavaHeadsetInfos.hpp"
+        #include "balaclavaHeadsetInfos.hpp"
     };
 };

@@ -25,13 +25,13 @@ class XtdGearModels
     };
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\mtpVestModels.hpp"
+        #include "\JCA_AIO_aceax\MCRP_MTP\mtpVestModels.hpp"
     };
 };
 class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\mtpVestInfos.hpp"
+        #include "\JCA_AIO_aceax\MCRP_MTP\mtpVestInfos.hpp"
     };
 };

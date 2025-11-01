@@ -16,21 +16,21 @@ class XtdGearModels
     class JCA_colorBase;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\shemag_H_Models.hpp"
+        #include "shemag_H_Models.hpp"
     };
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\models\shemagModels.hpp"
+        #include "shemagModels.hpp"
     };
 };
 class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\shemag_H_Infos.hpp"
+        #include "shemag_H_Infos.hpp"
     };
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\infos\shemagInfos.hpp"
+        #include "shemagInfos.hpp"
     };
 };
