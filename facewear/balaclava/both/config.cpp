@@ -15,10 +15,10 @@ class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\balaclava_H_BothInfos.hpp"
+        #include "balaclava_H_BothInfos.hpp"
     };
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\infos\balaclavaBothInfos.hpp"
+        #include "balaclavaBothInfos.hpp"
     };
 };

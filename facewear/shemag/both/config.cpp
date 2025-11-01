@@ -15,10 +15,10 @@ class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\shemag_H_BothInfos.hpp"
+        #include "shemag_H_BothInfos.hpp"
     };
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\infos\shemagBothInfos.hpp"
+        #include "shemagBothInfos.hpp"
     };
 };

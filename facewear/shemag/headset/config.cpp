@@ -51,21 +51,21 @@ class XtdGearModels
     class JCA_yesNoBase;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\shemag_H_HeadsetModels.hpp"
+        #include "shemag_H_HeadsetModels.hpp"
     };
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\models\shemagHeadsetModels.hpp"
+        #include "shemagHeadsetModels.hpp"
     };
 };
 class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\shemag_H_HeadsetInfos.hpp"
+        #include "shemag_H_HeadsetInfos.hpp"
     };
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\infos\shemagHeadsetInfos.hpp"
+        #include "shemagHeadsetInfos.hpp"
     };
 };

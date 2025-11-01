@@ -16,13 +16,13 @@ class XtdGearModels
     class JCA_colorBase;
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\models\msaModels.hpp"
+        #include "msaModels.hpp"
     };
 };
 class XtdGearInfos
 {
     class CfgGlasses
     {
-        #include "\JCA_AIO_aceax\infos\msaInfos.hpp"
+        #include "msaInfos.hpp"
     };
 };

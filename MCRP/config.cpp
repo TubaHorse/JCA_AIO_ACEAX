@@ -77,13 +77,13 @@ class XtdGearModels
     class JCA_colorBase;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\vestModels.hpp"
+        #include "vestModels.hpp"
     };
 };
 class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\vestInfos.hpp"
+        #include "vestInfos.hpp"
     };
 };

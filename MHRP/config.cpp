@@ -14,7 +14,25 @@ class CfgPatches
 
 class CfgWeapons
 {
-    #include "\JCA_AIO_aceax\acecompats\headgearCompat.hpp"
+    class JCA_H_HelmetHBK_base_F;
+    class JCA_H_HelmetHBK_chops_base_F: JCA_H_HelmetHBK_base_F
+    {
+        ace_hearing_protection=0.75;
+        ace_hearing_lowerVolume=0;
+        ace_hearing_hasEHP=1;
+    };
+    class JCA_H_HelmetHBK_ear_base_F: JCA_H_HelmetHBK_base_F
+    {
+        ace_hearing_protection=0.75;
+        ace_hearing_lowerVolume=0;
+        ace_hearing_hasEHP=1;
+    };
+    class JCA_H_HelmetHBK_headset_base_F: JCA_H_HelmetHBK_base_F
+    {
+        ace_hearing_protection=0.75;
+        ace_hearing_lowerVolume=0;
+        ace_hearing_hasEHP=1;
+    };
 };
 
 class XtdGearModels
@@ -22,7 +40,7 @@ class XtdGearModels
     class JCA_colorBase;
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\models\mhrpModel.hpp"
+        #include "mhrpModels.hpp"
     };
 };
 
@@ -30,6 +48,6 @@ class XtdGearInfos
 {
     class CfgWeapons
     {
-        #include "\JCA_AIO_aceax\infos\mhrpInfos.hpp"
+        #include "mhrpInfos.hpp"
     };
 };

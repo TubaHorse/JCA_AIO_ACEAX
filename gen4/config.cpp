@@ -1,4 +1,3 @@
-
 class CfgPatches
 {
     class JCA_gen4_aceax // JCA - Gen 4 Weapon Family
