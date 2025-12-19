@@ -18,21 +18,32 @@ Credit to Grave for his wonderful line of JCA mods, and credit to GrueArbre for 
 
 class XtdGearModels
 {
-    class JCA_colorBase
+    class JCA_colorBase // Reusable class for the 3 colours on all JCA items
     {
         values[] = {"BLK","OLI","SND"};
     };
-    class JCA_attachmentBase_3
+    class JCA_attachmentBase_3 // Reusable class for the 3 common attachment types
     {
         label="Attachment";
 		values[] = {"None","AFG","VFG"};
 		changeingame = 0;
 		alwaysSelectable = 1;
     };
-    class JCA_yesNoBase
+    class JCA_yesNoBase // Reusable class for things that are a simple yes/no toggle
     {
         values[]={"Yes","No"};
     };
+
+    #ifndef aceax_acebi_compat // If the BI/ACE3 aceax compat isn't loaded, define the Sand camo
+    class CamoBase
+    {
+        class SND
+        {
+            label = "Sand";
+		    image="#(rgb,8,8,3)color(0.886,0.843,0.765,1)";
+        };
+    };
+    #endif
 };
 
 class XtdGearInfos
