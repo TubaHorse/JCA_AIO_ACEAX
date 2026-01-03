@@ -31,7 +31,7 @@ class XtdGearModels
         #include "\JCA_AIO_aceax\m72\m72Models.hpp"
         #include "\JCA_AIO_aceax\m107\m107Models.hpp"
         #include "\JCA_AIO_aceax\HK433\hk433Models.hpp"
-        // #include "\JCA_AIO_aceax\HK437\hk437Models.hpp"
+        #include "\JCA_AIO_aceax\HK437\hk437Models.hpp"
     };
 };
 
@@ -52,6 +52,6 @@ class XtdGearInfos
         #include "\JCA_AIO_aceax\m72\m72Infos.hpp"
         #include "\JCA_AIO_aceax\m107\m107Infos.hpp"
         #include "\JCA_AIO_aceax\HK433\hk433Infos.hpp"
-        // #include "\JCA_AIO_aceax\HK437\hk437Infos.hpp"
+        #include "\JCA_AIO_aceax\HK437\hk437Infos.hpp"
     };
 };
