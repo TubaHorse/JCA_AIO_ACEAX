@@ -1,11 +1,12 @@
 # JCA ACE3 Arsenal Extended All-In-One Compatibility Mod
-ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft dependencies to determine what mods are loaded and applied necessary configs.
+ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft dependencies to determine what mods are loaded and applies necessary configs.
 
 ## Compatible Mods
 ### Weapons
 - [JCA - Infantry Arsenal](https://steamcommunity.com/sharedfiles/filedetails/?id=3333302397)
 - [JCA - Gen 4 Weapon Family](https://steamcommunity.com/sharedfiles/filedetails/?id=3149544080)
 - [JCA - HK433](https://steamcommunity.com/sharedfiles/filedetails/?id=3593321509)
+- [JCA - HK437](https://steamcommunity.com/sharedfiles/filedetails/?id=3625840163)
 - [JCA - M16A4](https://steamcommunity.com/sharedfiles/filedetails/?id=3343727154)
 - [JCA - MP5A5](https://steamcommunity.com/sharedfiles/filedetails/?id=3302425224)
 - [JCA - UMP45](https://steamcommunity.com/sharedfiles/filedetails/?id=3397288027)
@@ -27,9 +28,10 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - MCRP Expansion MTP](https://steamcommunity.com/sharedfiles/filedetails/?id=3417534462)
 - [JCA - MCRP Expansion 2035](https://steamcommunity.com/sharedfiles/filedetails/?id=3417529347)
 - [JCA - Combat Headset](https://steamcommunity.com/sharedfiles/filedetails/?id=3473420778)
+- [JCA- NBCD Suit](https://steamcommunity.com/sharedfiles/filedetails/?id=3655471051)
 - [JCA - M50 APR](https://steamcommunity.com/sharedfiles/filedetails/?id=3234562620)
-- [JCA - Tactical Glasses Remake Project](https://steamcommunity.com/sharedfiles/filedetails/?id=3323321780)
 - [JCA - MSA APR](https://steamcommunity.com/sharedfiles/filedetails/?id=3508762433)
+- [JCA - Tactical Glasses Remake Project](https://steamcommunity.com/sharedfiles/filedetails/?id=3323321780)
 - [JCA - Tactical Facewear](https://steamcommunity.com/sharedfiles/filedetails/?id=3543364649)
 - [JCA - Shemagh](https://steamcommunity.com/sharedfiles/filedetails/?id=3590944304)
 ----
