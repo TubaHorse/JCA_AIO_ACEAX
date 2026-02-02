@@ -26,6 +26,7 @@ class XtdGearModels
 {
     class JCA_colorBase;
     class JCA_yesNoBase;
+    class SleevesBase;
     class CfgWeapons
     {
         #include "\JCA_AIO_aceax\MHRP\mhrpModels.hpp"
@@ -33,6 +34,7 @@ class XtdGearModels
         #include "\JCA_AIO_aceax\CH\chModels.hpp"
         #include "\JCA_AIO_aceax\facewear\balaclava\ie\balaclava_H_IEModels.hpp"
         #include "\JCA_AIO_aceax\facewear\shemag\ie\shemag_H_IEModels.hpp"
+        #include "\JCA_AIO_aceax\NBCD\nbcdModels.hpp"
         // Beret only found in this mod I think
         class JCA_beret
         {
@@ -66,6 +68,8 @@ class XtdGearInfos
         #include "\JCA_AIO_aceax\CH\chInfos.hpp"
         #include "\JCA_AIO_aceax\facewear\balaclava\ie\balaclava_H_IEInfos.hpp"
         #include "\JCA_AIO_aceax\facewear\shemag\ie\shemag_H_IEInfos.hpp"
+        #include "\JCA_AIO_aceax\NBCD\nbcdInfos.hpp"
+
         // Beret only found in this mod I think
         class JCA_H_Beret_aceax
         {
@@ -107,7 +111,6 @@ class XtdGearInfos
             camo="SND";
             headset="Yes";
         };
-
     };
     class CfgGlasses
     {
