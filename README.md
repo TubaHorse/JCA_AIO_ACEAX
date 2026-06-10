@@ -14,6 +14,7 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - M107A1](https://steamcommunity.com/sharedfiles/filedetails/?id=3559739995)
 - [JCA - P226](https://steamcommunity.com/sharedfiles/filedetails/?id=3328185289)
 - [JCA - P320](https://steamcommunity.com/sharedfiles/filedetails/?id=3029401059)
+- [JCA - Glock 17](https://steamcommunity.com/sharedfiles/filedetails/?id=3739753424)
 - [JCA - M9A1](https://steamcommunity.com/sharedfiles/filedetails/?id=3457335790)
 - [JCA - Mk23](https://steamcommunity.com/sharedfiles/filedetails/?id=3477061208)
 - [JCA - Mk153](https://steamcommunity.com/sharedfiles/filedetails/?id=3389038429)
