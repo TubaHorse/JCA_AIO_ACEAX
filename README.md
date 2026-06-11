@@ -38,6 +38,15 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 ----
 [Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3501412586)
 
+### Factions
+- [E22 - Russian Armed Forces 2.0](https://steamcommunity.com/sharedfiles/filedetails/?id=2815603726)
+ 
+ TODO
+ - E22 - Finnish Defense Forces
+ - E22 - Catastrophic Emergency Response Agency
+ - E22 - Northstar
+ - Livonian Defense Forces Rearmed
+
 Special thanks to [Grave](https://steamcommunity.com/id/GraveHeartCRCG/myworkshopfiles/?appid=107410) for their JCA line of mods and to GrueArbre who made the original [ACE3 Arsenal Extended](https://steamcommunity.com/workshop/filedetails/?id=2522638637)
 
 *I am aware that the USMC 2035 project from Grave is not part of the JCA line, however JCA AIO (and also USMC) doesn't work as well as a title.*
