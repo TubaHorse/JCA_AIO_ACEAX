@@ -35,6 +35,7 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - Tactical Glasses Remake Project](https://steamcommunity.com/sharedfiles/filedetails/?id=3323321780)
 - [JCA - Tactical Facewear](https://steamcommunity.com/sharedfiles/filedetails/?id=3543364649)
 - [JCA - Shemagh](https://steamcommunity.com/sharedfiles/filedetails/?id=3590944304)
+- [JCA - Soft Headwear Remake Project](https://steamcommunity.com/sharedfiles/filedetails/?id=3748595657)
 ----
 [Workshop page](https://steamcommunity.com/sharedfiles/filedetails/?id=3501412586)
 
