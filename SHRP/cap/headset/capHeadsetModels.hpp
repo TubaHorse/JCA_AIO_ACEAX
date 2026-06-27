@@ -1,0 +1,8 @@
+class JCA_cap {
+    options[]+={"headset"};
+    class headset: JCA_yesNoBase{
+        label="Headset";
+        changeInGame=0;
+        alwaysSelectable=0;
+    };
+};
