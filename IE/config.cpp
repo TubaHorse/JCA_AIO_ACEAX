@@ -12,7 +12,7 @@ class CfgPatches
     };
 };
 
-class CfgWeapons
+/* class CfgWeapons
 {
     #include "\JCA_AIO_aceax\acecompats\headgearCompat.hpp"
 };
@@ -20,7 +20,7 @@ class CfgWeapons
 class CfgGlasses
 {
     #include "\JCA_AIO_aceax\acecompats\facewearCompat.hpp"
-};
+}; */
 
 class XtdGearModels
 {
