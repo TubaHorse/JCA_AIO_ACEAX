@@ -6,39 +6,17 @@ class CfgPatches
         requiredVersion=0.1;
         units[]={};
         weapons[]={};
-        requiredAddons[]={"aceax_gearinfo","JCA_AIO_aceax","lot_aaf_scar","lot_aaf_mk12"};
+        requiredAddons[]={"aceax_gearinfo","JCA_AIO_aceax", "Weapons_F_JCA_SCAR"};
         skipWhenMissingDependencies=1;
     };
 };
-
-// Removing until mod author fixes no-attachment versions
-/*
-class CfgWeapons
-{
-    class lot_SCAR_base_F;
-    class lot_SCAR_black_base_F;
-    class lot_SCAR_khaki_base_F;
-    class lot_SCAR_F: lot_SCAR_base_F
-    {
-        scope=2;
-    };
-    class lot_SCAR_black_F: lot_SCAR_black_base_F
-    {
-        scope=2;
-    };
-    class lot_SCAR_khaki_F: lot_SCAR_khaki_base_F
-    {
-        scope=2;
-    };
-};
-*/
 
 class XtdGearModels
 {
     class JCA_colorBase;
     class CfgWeapons
     {
-        class LOT_SCAR
+        class JCA_SCAR
         {
             label="SCAR";
             options[]={"camo","version","attachment","barrel"};
@@ -54,7 +32,7 @@ class XtdGearModels
             class attachment
             {
                 label="Attachment";
-                values[]={"VFG","UBGL"}; // Removing "None", for now
+                values[]={"None","UBGL"};
                 description="Underbarrel attachment options";
                 alwaysSelectable=0;
                 changeInGame=0;
@@ -67,294 +45,78 @@ class XtdGearModels
                 changeInGame=0;
             };
         };
-        class JCA_MK12
-        {
-            label="Mk 12 Mod 1";
-            options[]={"camo","attachment"};
-            class camo: JCA_colorBase{};
-            class attachment
-            {
-                label="Attachment";
-                values[]={"VFG","AFG"};
-                description="Underbarrel attachment options";
-                alwaysSelectable=0;
-                changeInGame=0;
-            };
-        };
     };
 };
 class XtdGearInfos
 {
     class CfgWeapons
     {
-        class SCAR_aceax
-        {
-            model="LOT_SCAR";
-        };
-
-        /* class lot_SCAR_khaki_F: SCAR_aceax // Technically scope=0 on but seems to function in game
-        {
-            camo="OLI";
-            version="Heavy";
-            attachment="None";
-            barrel="Standard";
-        };
-        class lot_SCAR_black_F: SCAR_aceax // Technically scope=0 on but seems to function in game
-        {
+        class JCA_arifle_SCAR_H_black_F {
+            model="JCA_SCAR";
             camo="BLK";
-            attachment="None";
             version="Heavy";
+            attachment="None";
             barrel="Standard";
         };
-        class lot_SCAR_F: SCAR_aceax // Technically scope=0 on but seems to function in game
-        {
-            camo="SND";
-            attachment="None";
-            version="Heavy";
-            barrel="Standard";
-        }; */
-
-        class lot_SCAR_GL_black_F: SCAR_aceax
-        {
-            camo="BLK";
+        class JCA_arifle_SCAR_H_short_black_F: JCA_arifle_SCAR_H_black_F {
+            barrel="Short";
+        };
+        class JCA_arifle_SCAR_H_GL_black_F: JCA_arifle_SCAR_H_black_F {
             attachment="UBGL";
-            version="Heavy";
+        };
+        class JCA_arifle_SCAR_L_black_F: JCA_arifle_SCAR_H_black_F {
+            version="Light";
+        };
+        class JCA_arifle_SCAR_L_short_black_F: JCA_arifle_SCAR_H_black_F {
+            version="Light";
             barrel="Short";
         };
-        class lot_SCAR_GL_F: SCAR_aceax
-        {
-            camo="SND";
+        class JCA_arifle_SCAR_L_GL_black_F: JCA_arifle_SCAR_H_black_F {
+            version="Light";
             attachment="UBGL";
-            version="Heavy";
+        };
+
+        class JCA_arifle_SCAR_H_sand_F: JCA_arifle_SCAR_H_black_F {
+            camo="SND";
+        };
+        class JCA_arifle_SCAR_H_short_sand_F: JCA_arifle_SCAR_H_sand_F {
             barrel="Short";
         };
-        class lot_SCAR_GL_khaki_F: SCAR_aceax
-        {
-            camo="OLI";
+        class JCA_arifle_SCAR_H_GL_sand_F: JCA_arifle_SCAR_H_sand_F {
             attachment="UBGL";
-            version="Heavy";
-            barrel="Short";
         };
-
-        class lot_SCAR_short_F: SCAR_aceax
-        {
-            camo="SND";
-            attachment="None";
-            version="Heavy";
-            barrel="Short";
-        };
-        class lot_SCAR_short_black_F: SCAR_aceax
-        {
-            camo="BLK";
-            attachment="None";
-            version="Heavy";
-            barrel="Short";
-        };
-        class lot_SCAR_short_khaki_F: SCAR_aceax
-        {
-            camo="OLI";
-            attachment="None";
-            version="Heavy";
-            barrel="Short";
-        };
-
-        class lot_SCAR_grip_black_F: SCAR_aceax
-        {
-            camo="BLK";
-            attachment="VFG";
-            version="Heavy";
-            barrel="Standard";
-        };
-        class lot_SCAR_grip_khaki_F: SCAR_aceax
-        {
-            camo="OLI";
-            attachment="VFG";
-            version="Heavy";
-            barrel="Standard";
-        };
-        class lot_SCAR_grip_F: SCAR_aceax
-        {
-            camo="SND";
-            attachment="VFG";
-            version="Heavy";
-            barrel="Standard";
-        };
-
-        /* class lot_SCAR_L_F: SCAR_aceax
-        {
-            camo="SND";
-            attachment="None";
+        class JCA_arifle_SCAR_L_sand_F: JCA_arifle_SCAR_H_sand_F {
             version="Light";
-            barrel="Standard";
         };
-        class lot_SCAR_L_khaki_F: SCAR_aceax
-        {
-            camo="OLI";
-            attachment="None";
+        class JCA_arifle_SCAR_L_short_sand_F: JCA_arifle_SCAR_H_sand_F {
             version="Light";
-            barrel="Standard";
+            barrel="Short";
         };
-        class lot_SCAR_L_black_F: SCAR_aceax
-        {
-            camo="BLK";
-            attachment="None";
+        class JCA_arifle_SCAR_L_GL_sand_F: JCA_arifle_SCAR_H_sand_F {
             version="Light";
-            barrel="Standard";
-        }; */
-
-        class lot_SCAR_L_GL_F: SCAR_aceax
-        {
-            camo="SND";
             attachment="UBGL";
-            version="Light";
+        };
+
+        class JCA_arifle_SCAR_H_olive_F: JCA_arifle_SCAR_H_black_F {
+            camo="OLI";
+        };
+        class JCA_arifle_SCAR_H_short_olive_F: JCA_arifle_SCAR_H_olive_F {
             barrel="Short";
         };
-        class lot_SCAR_L_GL_black_F: SCAR_aceax
-        {
-            camo="BLK";
+        class JCA_arifle_SCAR_H_GL_olive_F: JCA_arifle_SCAR_H_olive_F {
             attachment="UBGL";
+        };
+        class JCA_arifle_SCAR_L_olive_F: JCA_arifle_SCAR_H_olive_F {
+            version="Light";
+        };
+        class JCA_arifle_SCAR_L_short_olive_F: JCA_arifle_SCAR_H_olive_F {
             version="Light";
             barrel="Short";
         };
-        class lot_SCAR_L_GL_khaki_F: SCAR_aceax
-        {
-            camo="OLI";
+        class JCA_arifle_SCAR_L_GL_olive_F: JCA_arifle_SCAR_H_olive_F {
+            version="Light";
             attachment="UBGL";
-            version="Light";
-            barrel="Short";
         };
 
-        class lot_SCAR_L_short_F: SCAR_aceax
-        {
-            camo="SND";
-            attachment="None";
-            version="Light";
-            barrel="Short";
-        };
-        class lot_SCAR_L_short_khaki_F: SCAR_aceax
-        {
-            camo="OLI";
-            attachment="None";
-            version="Light";
-            barrel="Short";
-        };
-        class lot_SCAR_L_short_black_F: SCAR_aceax
-        {
-            camo="BLK";
-            attachment="None";
-            version="Light";
-            barrel="Short";
-        };
-
-        class lot_SCAR_L_grip_F: SCAR_aceax
-        {
-            camo="SND";
-            attachment="VFG";
-            version="Light";
-            barrel="Standard";
-        };
-        class lot_SCAR_L_grip_khaki_F: SCAR_aceax
-        {
-            camo="OLI";
-            attachment="VFG";
-            version="Light";
-            barrel="Standard";
-        };
-        class lot_SCAR_L_grip_black_F: SCAR_aceax
-        {
-            camo="BLK";
-            attachment="VFG";
-            version="Light";
-            barrel="Standard";
-        };
-
-        class lot_SCAR_short_grip_black_F: SCAR_aceax
-        {
-            camo="BLK";
-            attachment="VFG";
-            version="Heavy";
-            barrel="Short";
-        };
-
-        class lot_SCAR_short_grip_khaki_F: SCAR_aceax
-        {
-            camo="OLI";
-            attachment="VFG";
-            version="Heavy";
-            barrel="Short";
-        };
-
-        class lot_SCAR_short_grip_F: SCAR_aceax
-        {
-            camo="SND";
-            attachment="VFG";
-            version="Heavy";
-            barrel="Short";
-        };
-
-        class lot_SCAR_L_grip_short_black_F: SCAR_aceax
-        {
-            camo="BLK";
-            attachment="VFG";
-            version="Light";
-            barrel="Short";
-        };
-
-        class lot_SCAR_L_grip_short_khaki_F: SCAR_aceax
-        {
-            camo="OLI";
-            attachment="VFG";
-            version="Light";
-            barrel="Short";
-        };
-
-        class lot_SCAR_L_grip_short_F: SCAR_aceax
-        {
-            camo="SND";
-            attachment="VFG";
-            version="Light";
-            barrel="Short";
-        };
-
-        class MK12_aceax
-        {
-            model="JCA_MK12";
-        };
-
-        class JCA_arifle_Mk12_AFG_black_F: MK12_aceax
-        {
-            camo = "BLK";
-            attachment = "AFG";
-        };
-
-        class JCA_arifle_Mk12_AFG_olive_F: MK12_aceax
-        {
-            camo = "OLI";
-            attachment = "AFG";
-        };
-
-        class JCA_arifle_Mk12_AFG_sand_F: MK12_aceax
-        {
-            camo = "SND";
-            attachment = "AFG";
-        };
-
-        class JCA_arifle_Mk12_VFG_black_F: MK12_aceax
-        {
-            camo = "BLK";
-            attachment = "VFG";
-        };
-
-        class JCA_arifle_Mk12_VFG_olive_F: MK12_aceax
-        {
-            camo = "OLI";
-            attachment = "VFG";
-        };
-
-        class JCA_arifle_Mk12_VFG_sand_F: MK12_aceax
-        {
-            camo = "SND";
-            attachment = "VFG";
-        };
     };
 };
