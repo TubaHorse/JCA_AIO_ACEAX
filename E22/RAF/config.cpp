@@ -28,6 +28,7 @@ class XtdGearModels
         };
     };
     class SleevesBase;
+    class jca_yesNoBase;
 
     class JCA_E22_RAF_colorBase {
         values[]={"RAF_ALP","RAF_ARD","RAF_LES"};
@@ -35,6 +36,7 @@ class XtdGearModels
 
     class CfgWeapons {
         #include "uniforms\E22_RAF_UniformModels.hpp"
+        #include "headgear\E22_RAF_HeadgearModels.hpp"
     };
 };
 
@@ -42,5 +44,6 @@ class XtdGearInfos
 {
     class CfgWeapons {
         #include "uniforms\E22_RAF_UniformInfos.hpp"
+        #include "headgear\E22_RAF_HeadgearInfos.hpp"
     };
 };
