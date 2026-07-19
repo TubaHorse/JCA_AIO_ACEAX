@@ -12,16 +12,6 @@ class CfgPatches
     };
 };
 
-/* class CfgWeapons
-{
-    #include "\JCA_AIO_aceax\acecompats\headgearCompat.hpp"
-};
-
-class CfgGlasses
-{
-    #include "\JCA_AIO_aceax\acecompats\facewearCompat.hpp"
-}; */
-
 class XtdGearModels
 {
     class JCA_colorBase;

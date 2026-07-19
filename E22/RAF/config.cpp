@@ -6,7 +6,7 @@ class CfgPatches
         requiredVersion=0.1;
         units[]={};
         weapons[]={};
-        requiredAddons[]={"ace_main","aceax_gearinfo","Data_F_RAF"};
+        requiredAddons[]={"ace_main","aceax_gearinfo","JCA_IE_aceax","Data_F_RAF"};
         skipWhenMissingDependencies=1;
     };
 };
