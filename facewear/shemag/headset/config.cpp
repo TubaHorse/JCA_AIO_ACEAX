@@ -11,7 +11,7 @@ class CfgPatches
     };
 };
 
-class CfgWeapons
+/* class CfgWeapons
 {
     class JCA_H_shemagh_01_base_F;
     class JCA_H_shemagh_01_headset_base_F: JCA_H_shemagh_01_base_F
@@ -26,9 +26,9 @@ class CfgWeapons
         ace_hearing_lowerVolume=0;
         ace_hearing_hasEHP=1;
     };
-};
+}; */
 
-class CfgGlasses
+/* class CfgGlasses
 {
     class JCA_G_shemagh_01_base_F;
     class JCA_G_shemagh_01_headset_base_F: JCA_G_shemagh_01_base_F
@@ -42,8 +42,8 @@ class CfgGlasses
         ace_hearing_protection=0.75;
         ace_hearing_lowerVolume=0;
         ace_hearing_hasEHP=1;
-};
-};
+    };
+}; */
 
 class XtdGearModels
 {
