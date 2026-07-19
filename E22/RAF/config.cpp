@@ -27,6 +27,7 @@ class XtdGearModels
             image="\JCA_AIO_ACEAX\ui\les.paa"
         };
     };
+    class SleevesBase;
 
     class JCA_E22_RAF_colorBase {
         values[]={"RAF_ALP","RAF_ARD","RAF_LES"};
