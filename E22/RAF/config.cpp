@@ -37,6 +37,11 @@ class XtdGearModels
     class CfgWeapons {
         #include "uniforms\E22_RAF_UniformModels.hpp"
         #include "headgear\E22_RAF_HeadgearModels.hpp"
+        #include "vests\E22_RAF_VestModels.hpp"
+    };
+
+    class CfgVehicles {
+        #include "backpacks\E22_RAF_BackpackModels.hpp"
     };
 };
 
@@ -45,5 +50,10 @@ class XtdGearInfos
     class CfgWeapons {
         #include "uniforms\E22_RAF_UniformInfos.hpp"
         #include "headgear\E22_RAF_HeadgearInfos.hpp"
+        #include "vests\E22_RAF_VestInfos.hpp"
+    };
+
+    class CfgVehicles {
+        #include "backpacks\E22_RAF_BackpackInfos.hpp"
     };
 };
