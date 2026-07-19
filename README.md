@@ -8,6 +8,7 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - HK433](https://steamcommunity.com/sharedfiles/filedetails/?id=3593321509)
 - [JCA - HK437](https://steamcommunity.com/sharedfiles/filedetails/?id=3625840163)
 - [JCA - M16A4](https://steamcommunity.com/sharedfiles/filedetails/?id=3343727154)
+- [JCA - SCAR](https://steamcommunity.com/sharedfiles/filedetails/?id=3766052768)
 - [JCA - MP5A5](https://steamcommunity.com/sharedfiles/filedetails/?id=3302425224)
 - [JCA - UMP45](https://steamcommunity.com/sharedfiles/filedetails/?id=3397288027)
 - [JCA - M115A3](https://steamcommunity.com/sharedfiles/filedetails/?id=3148699851)
@@ -20,7 +21,6 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [JCA - Mk153](https://steamcommunity.com/sharedfiles/filedetails/?id=3389038429)
 - [JCA - M72A7](https://steamcommunity.com/sharedfiles/filedetails/?id=3510375032)
 - [USMC 2035 - Weapons](https://steamcommunity.com/sharedfiles/filedetails/?id=3505099041)
-- [SCAR Weapon Family (JCA Expansion)](https://steamcommunity.com/sharedfiles/filedetails/?id=3345739516) _Unofficial_
 
 ### Gear
 - [JCA - Infantry Equipment](https://steamcommunity.com/sharedfiles/filedetails/?id=3473383676)
