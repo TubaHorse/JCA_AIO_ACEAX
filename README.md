@@ -44,7 +44,6 @@ ACEAX Compat mod for all JCA content, no matter which mod is loaded. Uses soft d
 - [E22 - Finnish Defense Forces](https://steamcommunity.com/sharedfiles/filedetails/?id=3655847104)
  
  TODO
- - E22 - Finnish Defense Forces
  - E22 - Catastrophic Emergency Response Agency
  - E22 - Northstar
  - Livonian Defense Forces Rearmed
