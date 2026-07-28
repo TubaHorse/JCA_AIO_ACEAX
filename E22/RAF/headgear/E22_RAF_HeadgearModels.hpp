@@ -1,8 +1,6 @@
 class jca_ModHelm;
 class E22_RAF_jca_ModHelm: jca_ModHelm {
-	class camo {
-		values[]={"RAF_ALP","RAF_ARD","RAF_LES"};
-	};
+	class camo: JCA_E22_RAF_colorBase{};
 };
 
 class JCA_beret;
