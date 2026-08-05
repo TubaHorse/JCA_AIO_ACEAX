@@ -25,7 +25,8 @@ class XtdGearModels
         #include "\JCA_AIO_aceax\SHRP\IE\SHRPModels.hpp"
         #include "\JCA_AIO_aceax\facewear\balaclava\ie\balaclava_H_IEModels.hpp"
         #include "\JCA_AIO_aceax\facewear\shemag\ie\shemag_H_IEModels.hpp"
-        #include "\JCA_AIO_aceax\NBCD\nbcdModels.hpp"       
+        #include "\JCA_AIO_aceax\facewear\facemask\ie\facemask_H_models_IE.hpp"
+        #include "\JCA_AIO_aceax\NBCD\nbcdModels.hpp"
     };
     class CfgGlasses
     {
@@ -35,6 +36,7 @@ class XtdGearModels
         #include "\JCA_AIO_aceax\tacG\tacGModels.hpp"
         #include "\JCA_AIO_aceax\facewear\balaclava\ie\balaclavaIEModels.hpp"
         #include "\JCA_AIO_aceax\facewear\shemag\ie\shemagIEModels.hpp"
+        #include "\JCA_AIO_aceax\facewear\facemask\ie\facemask_models_IE.hpp"
     };
 };
 
@@ -48,6 +50,7 @@ class XtdGearInfos
         #include "\JCA_AIO_aceax\SHRP\IE\SHRPInfos.hpp"
         #include "\JCA_AIO_aceax\facewear\balaclava\ie\balaclava_H_IEInfos.hpp"
         #include "\JCA_AIO_aceax\facewear\shemag\ie\shemag_H_IEInfos.hpp"
+        #include "\JCA_AIO_aceax\facewear\facemask\ie\facemask_H_IEInfos.hpp"
         #include "\JCA_AIO_aceax\NBCD\nbcdInfos.hpp"
     };
     class CfgGlasses
@@ -58,5 +61,6 @@ class XtdGearInfos
         #include "\JCA_AIO_aceax\tacG\tacGInfos.hpp"
         #include "\JCA_AIO_aceax\facewear\balaclava\ie\balaclavaIEInfos.hpp"
         #include "\JCA_AIO_aceax\facewear\shemag\ie\shemagIEInfos.hpp"
+        #include "\JCA_AIO_aceax\facewear\facemask\ie\facemask_infos_IE.hpp"
     };
 };
