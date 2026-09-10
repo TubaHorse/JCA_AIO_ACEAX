@@ -34,6 +34,7 @@ class XtdGearModels
         #include "\JCA_AIO_aceax\HK437\hk437Models.hpp"
         #include "\JCA_AIO_aceax\Glk17\glk17Models.hpp"
         #include "\JCA_AIO_aceax\SCAR\scarModels.hpp"
+        #include "\JCA_AIO_aceax\MP7\mp7Models.hpp"
     };
 };
 
@@ -57,5 +58,6 @@ class XtdGearInfos
         #include "\JCA_AIO_aceax\HK437\hk437Infos.hpp"
         #include "\JCA_AIO_aceax\Glk17\glk17Infos.hpp"
         #include "\JCA_AIO_aceax\SCAR\scarInfos.hpp"
+        #include "\JCA_AIO_aceax\MP7\mp7Infos.hpp"
     };
 };
