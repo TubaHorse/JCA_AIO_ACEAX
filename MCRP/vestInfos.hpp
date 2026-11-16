@@ -168,3 +168,18 @@ class JCA_V_CarrierRigKBT_01_tactical_olive_F : JCA_V_CarrierRigKB_aceax
 	camo="OLI";
 	variant="Tactical";
 };
+class JCA_V_CarrierRigKBT_01_security_black_F : JCA_V_CarrierRigKB_aceax
+{
+	camo="BLK";
+	variant="Security";
+};
+class JCA_V_CarrierRigKBT_01_security_sand_F : JCA_V_CarrierRigKB_aceax
+{
+	camo="SND";
+	variant="Security";
+};
+class JCA_V_CarrierRigKBT_01_security_olive_F : JCA_V_CarrierRigKB_aceax
+{
+	camo="OLI";
+	variant="Security";
+};

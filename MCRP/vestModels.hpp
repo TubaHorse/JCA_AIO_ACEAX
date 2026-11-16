@@ -9,7 +9,7 @@ class JCA_MCRP
 	class variant
 	{
 		label="Variant";
-		values[]={"Standard","Light","Heavy","Combat","Commander","Compact","CQB","Crew","Holster","Recon","Tactical"};
+		values[]={"Standard","Light","Heavy","Combat","Commander","Compact","CQB","Crew","Holster","Recon","Tactical","Security"};
 		alwaysSelectable=1;
 		changeInGame=0;
 	};

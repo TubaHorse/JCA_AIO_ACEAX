@@ -73,3 +73,16 @@ class JCA_cap_military
         alwaysSelectable=0;
     };
 };
+
+class JCA_boonie
+{
+    label="Boonie";
+    options[]={"camo","headset"};
+    class camo: JCA_colorBase{};
+    class headset: JCA_yesNoBase
+    {
+        label="Headset";
+        changeInGame=0;
+        alwaysSelectable=0;
+    };
+};

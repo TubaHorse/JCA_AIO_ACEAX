@@ -6,7 +6,7 @@ class CfgPatches
         requiredVersion=0.1;
         units[]={};
         weapons[]={};
-        requiredAddons[]={"aceax_gearinfo","JCA_AIO_aceax","Facewear_F_JCA_TF","Facewear_F_JCA_CH","Facewear_F_JCA_TGRP"};
+        requiredAddons[]={"aceax_gearinfo","JCA_AIO_aceax","Facewear_F_JCA_TF","Facewear_F_JCA_CH","Facewear_F_JCA_TG"};
         skipWhenMissingDependencies=1;
     };
 };
