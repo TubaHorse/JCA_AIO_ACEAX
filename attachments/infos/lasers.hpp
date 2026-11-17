@@ -1,4 +1,4 @@
-class JCA_acc_DialMount_black_Pointer {
+class JCA_acc_DualMount_black_Pointer {
 	model="dualMount_aceax";
 	camo="BLK";
 };
@@ -13,7 +13,7 @@ class JCA_acc_flashlight_tactical_black {
 	camo="BLK";
 };
 
-class JCA_acc_DialMount_olive_Pointer {
+class JCA_acc_DualMount_olive_Pointer {
 	model="dualMount_aceax";
 	camo="OLI";
 };
@@ -28,7 +28,7 @@ class JCA_acc_flashlight_tactical_olive {
 	camo="OLI";
 };
 
-class JCA_acc_DialMount_sand_Pointer {
+class JCA_acc_DualMount_sand_Pointer {
 	model="dualMount_aceax";
 	camo="SND";
 };

@@ -21,6 +21,10 @@ class XtdGearModels
         #include "models\muzzles.hpp"
         #include "models\lasers.hpp"
     };
+    class CfgMagazines
+    {
+        #include "models\magazines.hpp"
+    };
 };
 
 class XtdGearInfos
@@ -30,5 +34,9 @@ class XtdGearInfos
         #include "infos\optics.hpp"
         #include "infos\muzzles.hpp"
         #include "infos\lasers.hpp"
+    };
+    class CfgMagazines
+    {
+        #include "infos\magazines.hpp"
     };
 };
