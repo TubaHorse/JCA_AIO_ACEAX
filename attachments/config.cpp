@@ -19,6 +19,7 @@ class XtdGearModels
     {
         #include "models\optics.hpp"
         #include "models\muzzles.hpp"
+        #include "models\lasers.hpp"
     };
 };
 
@@ -28,5 +29,6 @@ class XtdGearInfos
     {
         #include "infos\optics.hpp"
         #include "infos\muzzles.hpp"
+        #include "infos\lasers.hpp"
     };
 };
