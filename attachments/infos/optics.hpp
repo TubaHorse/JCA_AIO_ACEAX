@@ -258,3 +258,17 @@ class JCA_optic_MRPS_sand: JCA_optic_MRPS_black
 {
 	camo="SND";
 };
+
+class JCA_optic_MRCS_black 
+{
+	nmodel="JCA_MRCS_aceax";
+	camo="BLK";
+};
+class JCA_optic_MRCS_olive: JCA_optic_MRCS_black
+{
+	camo="OLI";
+};
+class JCA_optic_MRCS_sand: JCA_optic_MRCS_black
+{
+	camo="SND";
+};

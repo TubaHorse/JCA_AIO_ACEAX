@@ -112,3 +112,10 @@ class JCA_MRPS_aceax
 	options[]={"camo"};
 	class camo: JCA_colorBase{};
 };
+
+class JCA_MRCS_aceax
+{
+	label="MRCS";
+	options[]={"camo"};
+	class camo: JCA_colorBase{};
+};
