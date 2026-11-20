@@ -86,12 +86,12 @@ class JCA_IHO_aceax
 	};
 };
 
-class JCA_MCRS_aceax
+/* class JCA_MCRS_aceax
 {
 	label="MCRS";
 	options[]={"camo"};
 	class camo: JCA_colorBase{};
-};
+}; */
 
 class JCA_MROS_aceax
 {
@@ -104,7 +104,6 @@ class JCA_MROS_aceax
 		alwaysselectable=1;
 	};
 };
-
 
 class JCA_MRPS_aceax
 {

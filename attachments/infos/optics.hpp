@@ -197,7 +197,7 @@ class JCA_optic_IHO_sand_magnifier: JCA_optic_IHO_black_magnifier
 	camo="SND";
 };
 
-// MCRS
+/* // MCRS
 class JCA_optic_MCRS_black
 {
 	model="JCA_MCRS_aceax";
@@ -210,7 +210,7 @@ class JCA_optic_MCRS_olive: JCA_optic_MCRS_black
 class JCA_optic_MCRS_sand: JCA_optic_MCRS_black
 {
 	camo="SND";
-};
+}; */
 
 // MROS
 class JCA_optic_MROS_black
@@ -261,7 +261,7 @@ class JCA_optic_MRPS_sand: JCA_optic_MRPS_black
 
 class JCA_optic_MRCS_black 
 {
-	nmodel="JCA_MRCS_aceax";
+	model="JCA_MRCS_aceax";
 	camo="BLK";
 };
 class JCA_optic_MRCS_olive: JCA_optic_MRCS_black

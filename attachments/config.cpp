@@ -26,6 +26,7 @@ class XtdGearModels
         {
             label="Tactical Bipod";
             options[]={"camo"};
+            class camo: JCA_colorBase{};
         };
     };
     /* class CfgMagazines
